@@ -12,6 +12,7 @@
       <excludeFolder url="file://$MODULE_DIR$/lesson1/hello-meteor/.meteor/local" />
       <excludeFolder url="file://$MODULE_DIR$/lesson3-methods/meteor-wallet/.meteor/local" />
       <excludeFolder url="file://$MODULE_DIR$/lesson2-tailwind/meteor-wallet/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson3-publications/meteor-wallet/.meteor/local" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
