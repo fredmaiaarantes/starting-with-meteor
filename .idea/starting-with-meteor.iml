@@ -5,14 +5,15 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/lesson2/meteor-wallet/.meteor/local" />
       <excludeFolder url="file://$MODULE_DIR$/lesson1/meteor-wallet/.meteor/local" />
       <excludeFolder url="file://$MODULE_DIR$/lesson1-start/meteor-wallet/.meteor/local" />
       <excludeFolder url="file://$MODULE_DIR$/lesson3/meteor-wallet/.meteor/local" />
       <excludeFolder url="file://$MODULE_DIR$/lesson1/hello-meteor/.meteor/local" />
-      <excludeFolder url="file://$MODULE_DIR$/lesson3-methods/meteor-wallet/.meteor/local" />
-      <excludeFolder url="file://$MODULE_DIR$/lesson2-tailwind/meteor-wallet/.meteor/local" />
-      <excludeFolder url="file://$MODULE_DIR$/lesson3-publications/meteor-wallet/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson2-1-contacts/meteor-wallet/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson2-2-tailwind/meteor-wallet/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson3-1-methods/meteor-wallet/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson3-2-publications/meteor-wallet/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson3-3-archive/meteor-wallet/.meteor/local" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
